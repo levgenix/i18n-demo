@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: i18n-demo
+
+# Настройки интернационализации. Используются сервисами, которые получают переводы удаленно.
+internationalization:
+  enabled: true
+  defaultLanguage: ru
+  remoteServiceUrl: https://someurl.ru/api/v1/translations
+  cacheLifetime: 3600
+  cacheUpdatePeriod: 60
+  version: v2

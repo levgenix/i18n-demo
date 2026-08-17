@@ -1,0 +1,8 @@
+{
+    "BE.hello": "Привет",
+    "BE.goodbye": "Пока",
+    "BE.SomeComponent.ERROR_NAMES.key.0": "Ошибка 0",
+    "BE.SomeComponent.ERROR_NAMES.key.1": "Ошибка 1",
+    "BE.SomeComponent.ERROR_NAMES.value.0": "Значение 0",
+    "BE.SomeComponent.ERROR_NAMES.value.1": "Значение 1"
+}
